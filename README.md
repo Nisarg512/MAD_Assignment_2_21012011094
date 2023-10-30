@@ -1,7 +1,7 @@
 # Project-Traveling
 
 # About:
-this application is used to search places for travel in india and also use for to find hotel
+this application is used to search places for travel in india and also use for to find hotel.travel project application that redefines the way travelers explore, plan, and enjoy their journeys. 
 
 #features:
 
